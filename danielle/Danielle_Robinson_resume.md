@@ -21,6 +21,9 @@ Event | Location | Date | Role
 [Future Proofing You Data with SQUAD Goals](https://github.com/daniellecrobinson/MozWOW-2017-lightning-talk) | Montréal, QC Canada | March 10, 2017 | Lightning talk on data standards and the beauty of machine readable metadata.
 [Working Open Workshop, Montréal](https://mozillascience.github.io/WOW-2017/) | Montréal, QC Canada | March 10 & 11, 2017 | Lean [GitHub workshop](https://public.etherpad-mozilla.org/p/2017-03-09-WOW-friendly-github-intro), panel discussion on [Community Building](https://public.etherpad-mozilla.org/p/2017-wow-community-building), and [Open Data & Data Reuse](https://mozillascience.github.io/WOW-2017/data_rescue_exercise/data_rescue_exercise.html) session.
 [miniWOW PDX](https://github.com/daniellecrobinson/mini-wow-pdx) | Portland OR | April 14 & 15, 2017 | A shorter version of the Working Open Workshop, see [schedule](https://github.com/daniellecrobinson/mini-wow-pdx/blob/master/mini-wow-pdx-schedule.md).
+[A Friendly Intro To GitHub at RDAP](https://mozillascience.github.io/friendly-github/) | Seattle WA | April 21, 2017 | 
+[Library Journal Webinar: Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Online | April 25, 2017 | Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/)
+
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
