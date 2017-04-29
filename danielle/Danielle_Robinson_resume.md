@@ -24,7 +24,6 @@ Event | Location | Date | Role
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
 [Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 
-
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
@@ -37,7 +36,6 @@ TITLE | TECH USED | LINK | DESCRIPTION
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
  [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
- [Library Carpentry Instructor Training](https://datapub.cdlib.org/2016/12/08/announcing-instructor-training-for-librarians/) | May 4 & 5, 2017 | Portland OR | Participant
  [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training prior to kickoff of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX).
  
 #### BLOGS
