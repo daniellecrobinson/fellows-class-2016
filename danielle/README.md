@@ -1,9 +1,5 @@
-Hello Danielle! 
+Hello world! :computer:
 
-Feel free to put all of your research, zine drafts, exercises, materials and anything else in your folder of this repo. 
+Welcome to Danielle's 2016-2017 Mozilla Fellowship repo! :smiley_cat:
 
-You should be able to fork the repo, edit in the online GUI interface or in your own local clone, and update your fork at your leisure.
-
-We'll combine them all into the same `master` repo at the end of the year!
-
-Enjoy!
+See also [here](https://github.com/daniellecrobinson). 
