@@ -1,5 +1,5 @@
-###Danielle Robinson, Oregon Health & Science University
-###[@daniellecrobins](https://twitter.com/daniellecrobins)
+### Danielle Robinson, Oregon Health & Science University
+### [@daniellecrobins](https://twitter.com/daniellecrobins)
 
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following September - December 2016: 
 
