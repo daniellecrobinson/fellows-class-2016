@@ -13,6 +13,7 @@ Event | Location | Date | Role
 [Licensing and copyright roundtable for data sharing and open source](https://twitter.com/daniellecrobins/status/793885129143754755) | Portland, OR | November 4, 2016 | Participant
 [OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
+[Digital security for moms] (add link to GH) | Portland OR | January 15, 2017 | Talk and workshop on how to level up your personal digital security.
 [Data Rescue PDX](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Portland OR | February 3, 2017 | JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. 
 [Data Rescue: Why, Who and What's Next](https://github.com/daniellecrobinson/Data-Rescue-Talk/blob/master/20170303017_datarescuepdx.pdf) | Portland OR | March 3, 2017 | A talk on the landscape of and challenges facing the Data Rescue movement.
 [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) | Portland OR | March 3 & 4, 2017 | Workshops on webscraping and metadata creation on Friday will lead into a full day of hacking open data on Saturday. 
@@ -22,7 +23,6 @@ Event | Location | Date | Role
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
 [Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer: Program Committee member and session chair.
-[Digital security for moms] (add link to GH) | Portland OR | January 15, 2017 | Talk and workshop on how to level up your personal digital security.
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
 
 #### PROJECTS
