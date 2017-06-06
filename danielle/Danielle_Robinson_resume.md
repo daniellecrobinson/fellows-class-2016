@@ -23,7 +23,19 @@ Event | Location | Date | Role
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
 [Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer: Program Committee member and session chair.
+Library Carpentry | Portland, OR | May 4, 2017 |
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
+Data and Donuts: a discussion with Jeff Leek, PhD | Portland OR | May 11, 2017 |
+PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 |
+Django Girls | Portland OR | May 12 & 13, 2017 |
+BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 |
+Women in Science Portland Evening Forum | Portland OR | May 30, 2017 |
+Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 |
+[Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
+Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 |
+Open in Africa: Working Open Workshop Capetown | Cape Town, South Africa |  June 16, 2017 |
+Open Source Bridge | [microWorking Open Workshop (microWOW): Launch Your Open Project!](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 |
+Society for American Archivists Web Archiving Section’s annual meeting | Portland OR |  July 26, 2017
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
