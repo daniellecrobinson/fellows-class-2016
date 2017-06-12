@@ -34,9 +34,9 @@ Mozilla Fellows Work Week | San Francisco, CA | February 6 - 10, 2017 |
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
 [Data and Donuts: a discussion with Jeff Leek, PhD](https://github.com/BioData-Club/dataDonutsJeffLeek) | Portland OR | May 11, 2017 | A discussion of Jeff's work, and the current and future states of scientific communication! 
 PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 | An informal discussion about Mozilla Science acrivities and programs in the Python community.
-BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 | The world's friendliest introduction to R, organized and taught with Lilly Winfree.
-Women in Science Portland Evening Forum | Portland OR | May 30, 2017 | An evening of community engagement and discussion. Founding member and Chair of the Communications Committee.
-Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 | Site host, participant, and mentor for two projects.
+[BioData Club: Friendly Intro to R Workshop](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/README.md) | Portland OR | May 26, 2017 | The world's friendliest introduction to R, organized and taught with Lilly Winfree.
+[Women in Science Portland Evening Forum](https://www.facebook.com/events/121650565052281) | Portland OR | May 30, 2017 | An evening of community engagement and discussion. Founding member and Chair of the Communications Committee.
+[Mozilla Global Sprint Portland](https://mozilla.github.io/global-sprint/) | Portland OR | June 1 & 2, 2017 | Site host, participant, and mentor for two projects.
 [Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
 Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 | Invited Speaker
 Open in Africa: Working Open Workshop Capetown | Cape Town, South Africa |  June 16, 2017 |
