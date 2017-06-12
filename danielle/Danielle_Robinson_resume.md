@@ -16,6 +16,8 @@ Dissertation Defense | Portland, OR | December 5, 2016 | The role of myotubulari
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
 [Digital security for moms] (add link to GH) | Portland OR | January 15, 2017 | Talk and workshop on how to level up your personal digital security.
 [Data Rescue PDX](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Portland OR | February 3, 2017 | JSON tutorial for beginners and will help participants understand where open data lives, how open data in structured, and build skills in data documentation and archiving. 
+Mozilla Fellows Work Week | San Francisco, CA | February 6 - 10, 2017 |
+[OpenCon SF](http://futureofresearch.org/2017/01/31/opencon-san-francisco-satellite-event-at-manylabs-5-30-9pm-tues-feb-7th/) | SanFrancisco, CA | February 7, 2017 | An evening of talks on ways of working open
 [Data Rescue: Why, Who and What's Next](https://github.com/daniellecrobinson/Data-Rescue-Talk/blob/master/20170303017_datarescuepdx.pdf) | Portland OR | March 3, 2017 | A talk on the landscape of and challenges facing the Data Rescue movement.
 [Open Data Day](https://www.eventbrite.com/e/open-data-day-portland-tickets-31370043645) | Portland OR | March 3 & 4, 2017 | Workshops on webscraping and metadata creation on Friday will lead into a full day of hacking open data on Saturday. 
 [Future Proofing You Data with SQUAD Goals](https://github.com/daniellecrobinson/MozWOW-2017-lightning-talk) | Montréal, QC Canada | March 10, 2017 | Lightning talk on data standards and the beauty of machine readable metadata.
@@ -27,7 +29,6 @@ Dissertation Defense | Portland, OR | December 5, 2016 | The role of myotubulari
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
 [Data and Donuts: a discussion with Jeff Leek, PhD](https://github.com/BioData-Club/dataDonutsJeffLeek) | Portland OR | May 11, 2017 | A discussion of Jeff's work, and the current and future states of scientific communication! 
 PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 |
-Django Girls | Portland OR | May 12 & 13, 2017 |
 BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 |
 Women in Science Portland Evening Forum | Portland OR | May 30, 2017 |
 Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 |
@@ -52,6 +53,7 @@ TITLE | TECH USED | LINK | DESCRIPTION
  [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
  [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training prior to kickoff of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX).
  Library Carpentry Instructor training| Portland, OR | May 4, 2017 | Completed one day! 
+ Django Girls | Portland OR | May 12 & 13, 2017 |
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
