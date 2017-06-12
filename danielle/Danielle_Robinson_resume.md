@@ -39,7 +39,7 @@ PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 | An informal 
 [Mozilla Global Sprint Portland](https://mozilla.github.io/global-sprint/) | Portland OR | June 1 & 2, 2017 | Site host, participant, and mentor for two projects.
 [Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
 Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 | Invited Speaker
-Open in Africa: Working Open Workshop Capetown | Cape Town, South Africa |  June 16, 2017 |
+[Open in Africa: Working Open Workshop Capetown](https://mozillascience.github.io/WOW-SA/) | Cape Town, South Africa |  June 16, 2017 |
 Open Source Bridge | [microWorking Open Workshop (microWOW): Launch Your Open Project!](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 | A 1hr 45 min workshop to prepare participants on how to lauch their open projects!
 Society for American Archivists Web Archiving Section’s annual meeting | Portland OR |  July 26, 2017 | Invited panelist for a discussion on Data Rescue.
 
