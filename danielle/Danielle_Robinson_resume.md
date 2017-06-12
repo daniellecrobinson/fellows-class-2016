@@ -23,9 +23,8 @@ Event | Location | Date | Role
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
 [Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer: Program Committee member and session chair.
-Library Carpentry | Portland, OR | May 4, 2017 |
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
-Data and Donuts: a discussion with Jeff Leek, PhD | Portland OR | May 11, 2017 |
+[Data and Donuts: a discussion with Jeff Leek, PhD](https://github.com/BioData-Club/dataDonutsJeffLeek) | Portland OR | May 11, 2017 | A discussion of Jeff's work, and the current and future states of scientific communication! 
 PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 |
 Django Girls | Portland OR | May 12 & 13, 2017 |
 BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 |
@@ -44,12 +43,14 @@ TITLE | TECH USED | LINK | DESCRIPTION
 [Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections
 [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
 [BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online cirriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
+[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | A series of events in Portland empowering people to work on backing up and collecting government data.
 
 #### TRAININGS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
  [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
  [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training prior to kickoff of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX).
+ Library Carpentry Instructor training| Portland, OR | May 4, 2017 | Completed one day! 
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
