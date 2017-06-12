@@ -11,7 +11,7 @@ Event | Location | Date | Role
 [Science Hack Day Portland](http://portland.sciencehackday.org/) | Portland, OR | October 7-8, 2016 | Organizer and molecular biology team leader
 [Mozilla Festival](https://mozillafestival.org/) | London, UK | October 27-29, 2016 | Lightning talk: "The open revolution is science and why it needs you"
 [Licensing and copyright roundtable for data sharing and open source](https://twitter.com/daniellecrobins/status/793885129143754755) | Portland, OR | November 4, 2016 | Participant
-[OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - Open Advice (https://kirstiejane.github.io/OpenAdvice/)
+[OpenCon](http://www.opencon2016.org/updates/) | Washington, DC | November 12-14, 2016 | Unconference session leader - [Open Advice](https://kirstiejane.github.io/OpenAdvice/)
 Dissertation Defense | Portland, OR | December 5, 2016 | The role of myotubularin phosphatases in peripheral myelination and disease
 [Coding for Science and Society Meetup](https://www.meetup.com/Dat-Meetup/events/235968044/) | Portland, OR | December 13, 2016 | Lightning talk: "Mozilla Science Lab: Resources & community"
 [Digital security for moms] (add link to GH) | Portland OR | January 15, 2017 | Talk and workshop on how to level up your personal digital security.
