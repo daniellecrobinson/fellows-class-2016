@@ -1,5 +1,9 @@
-### Danielle Robinson, Oregon Health & Science University
-### [@daniellecrobins](https://twitter.com/daniellecrobins)
+## Meta Résumé
+
+### Danielle C. Robinson, PhD
+### Oregon Health & Science University
+### T: [@daniellecrobins](https://twitter.com/daniellecrobins)
+### G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following: 
 
