@@ -31,7 +31,7 @@ Mozilla Fellows Work Week | San Francisco, CA | February 6 - 10, 2017 |
 PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 |
 BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 |
 Women in Science Portland Evening Forum | Portland OR | May 30, 2017 |
-Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 |
+Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 | Site host and mentor
 [Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
 Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 |
 Open in Africa: Working Open Workshop Capetown | Cape Town, South Africa |  June 16, 2017 |
