@@ -24,25 +24,25 @@ Mozilla Fellows Work Week | San Francisco, CA | February 6 - 10, 2017 |
 [Working Open Workshop, Montréal](https://mozillascience.github.io/WOW-2017/) | Montréal, QC Canada | March 10 & 11, 2017 | Lean [GitHub workshop](https://public.etherpad-mozilla.org/p/2017-03-09-WOW-friendly-github-intro), panel discussion on [Community Building](https://public.etherpad-mozilla.org/p/2017-wow-community-building), and [Open Data & Data Reuse](https://mozillascience.github.io/WOW-2017/data_rescue_exercise/data_rescue_exercise.html) session.
 [miniWOW PDX](https://github.com/daniellecrobinson/mini-wow-pdx) | Portland OR | April 14 & 15, 2017 | A shorter version of the Working Open Workshop, see [schedule](https://github.com/daniellecrobinson/mini-wow-pdx/blob/master/mini-wow-pdx-schedule.md).
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
-[Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
+[Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Invited Speaker: Library Journal Webinar | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer: Program Committee member and session chair.
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
 [Data and Donuts: a discussion with Jeff Leek, PhD](https://github.com/BioData-Club/dataDonutsJeffLeek) | Portland OR | May 11, 2017 | A discussion of Jeff's work, and the current and future states of scientific communication! 
-PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 |
-BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 |
-Women in Science Portland Evening Forum | Portland OR | May 30, 2017 |
-Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 | Site host and mentor
+PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 | An informaal discussion of Mozilla Science in the Python community.
+BioData Club: Friendly Intro to R Workshop | Portland OR | May 26, 2017 | The world's friendliest introduction to R, organized and taught with Lilly Winfree.
+Women in Science Portland Evening Forum | Portland OR | May 30, 2017 | An evening of community engagement and discussion. Founding member and Chair of the Communications Committee.
+Mozilla Global Sprint Portland | Portland OR | June 1 & 2, 2017 | Site host, participant, and mentor for two projects.
 [Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
-Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 |
+Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 | Invited Speaker
 Open in Africa: Working Open Workshop Capetown | Cape Town, South Africa |  June 16, 2017 |
-Open Source Bridge | [microWorking Open Workshop (microWOW): Launch Your Open Project!](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 |
-Society for American Archivists Web Archiving Section’s annual meeting | Portland OR |  July 26, 2017
+Open Source Bridge | [microWorking Open Workshop (microWOW): Launch Your Open Project!](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 | A 1hr 45 min workshop to prepare participants on how to lauch their open projects!
+Society for American Archivists Web Archiving Section’s annual meeting | Portland OR |  July 26, 2017 | Invited panelist for a discussion on Data Rescue.
 
 #### PROJECTS
 TITLE | TECH USED | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science
-[Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections
+[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science.
+[Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections.
 [Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
 [BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online cirriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
 [Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | A series of events in Portland empowering people to work on backing up and collecting government data.
@@ -53,7 +53,7 @@ TITLE | TECH USED | LINK | DESCRIPTION
  [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
  [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training prior to kickoff of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX).
  Library Carpentry Instructor training| Portland, OR | May 4, 2017 | Completed one day! 
- Django Girls | Portland OR | May 12 & 13, 2017 |
+ Django Girls | Portland OR | May 12 & 13, 2017 | Participant!
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
