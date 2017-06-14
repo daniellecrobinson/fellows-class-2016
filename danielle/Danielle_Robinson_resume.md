@@ -5,6 +5,8 @@
 ### T: [@daniellecrobins](https://twitter.com/daniellecrobins)
 ### G: [@daniellecrobinson](https://github.com/daniellecrobinson)
 
+![img](https://github.com/daniellecrobinson/fellows-class-2016/blob/master/danielle/Mozilla-travels-2016-2017.png)
+
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following: 
 
 #### EVENTS & TALKS
