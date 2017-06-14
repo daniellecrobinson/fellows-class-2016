@@ -9,6 +9,16 @@
 
 As part of the 2016 Mozilla Fellows for Science program, I completed/participated in the following: 
 
+#### PROJECTS
+TITLE | TECH USED | DESCRIPTION
+----- | --------- | ------------
+[BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online cirriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
+[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow | A series of events in Portland empowering people to work on backing up and collecting government data.
+[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science.
+[Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections.
+[Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
+
+
 #### EVENTS & TALKS
 
 Event | Location | Date | Role | Description 
@@ -47,22 +57,13 @@ PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 | 👩‍🏫 
 [Open Source Bridge](http://opensourcebridge.org/sessions/2065) | [microWorking Open Workshop (microWOW): Launch Your Open Project!](https://github.com/daniellecrobinson/microWOW-OSBridge-2017) | Portland OR |  June 21, 2017 | 👩‍🏫 Session Leader | A 1hr 45 min workshop to prepare participants on how to lauch their open projects!
 [Society for American Archivists Web Archiving Section’s annual meeting](http://www2.archivists.org/groups/web-archiving-section) | Portland OR |  July 26, 2017 | 📢 Panel Discussion | Invited panelist for a discussion on Data Rescue.
 
-#### PROJECTS
-TITLE | TECH USED | DESCRIPTION
------ | --------- | ------------
-[Open Advice](https://kirstiejane.github.io/OpenAdvice/) | Website | Answering your real world questions about open science.
-[Radian Data](http://radiandata.com/) | Website with PressForward Plugin | A platform that enables curation, centralization, and discovery of resources for open data practitioners, educators, and enthusiasts on the open web. This project will fill a community need by helping researchers, students, and librarians connect to the best resources on data topics and build cross-disciplinary connections.
-[Scientists Speaking Up](http://futureofresearch.org/campaign-scientists-speaking-up/)  | Website, survey, and community building | A campaign support early career researchers efforts to create an inclusive future for science and insure that socities are standing up for science in an era of "alternative facts", by advocating inside scientific societies. This campaign supported by the early career advocacy group [Future of Research](http://futureofresearch.org/).
-[BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online cirriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
-[Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow | A series of events in Portland empowering people to work on backing up and collecting government data.
-
 #### TRAININGS ATTENDED
 TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
- [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
- [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training prior to kickoff of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX).
- [Library Carpentry Instructor training](https://weaverbel.github.io/2017-05-04-portland-ttt/) | Portland, OR | May 4, 2017 | Completed one day of Instructor training including, assessment, teaching as aperformance art, and learning styles.
- [Django Girls](https://djangogirls.org/pycon/) | Portland OR | May 12 & 13, 2017 | Participated in a workshop to learn how Django and Python work together.
+ [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Workshop on functional expressions in R.
+ [Open Leadership Mentor Training](https://docs.google.com/presentation/d/1VPQ2w5RBHcw4Rx7h--OwttzkkGTC_cwE-da08Hz_E_E/present#slide=id.g1088c5b110_0_183) | Montréal, QC Canada| March 10, 2017 | Participant in mentor training including communication, community management and listening skills. In advance of twelve week mentoring of two projects, [Why Not Open Science](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTechEDU](https://github.com/NeuroTechX) in the Mozilla Open Leadership Cohort.
+ [Library Carpentry Instructor training](https://weaverbel.github.io/2017-05-04-portland-ttt/) | Portland, OR | May 4, 2017 | Completed one day of Library Instructor training including, assessment, teaching as aperformance art, and learning styles.
+ [Django Girls](https://djangogirls.org/pycon/) | Portland OR | May 12 & 13, 2017 | Building websites with Django and Python.
  
 #### BLOGS
 * [Introducing the 2016 Mozilla Science Fellows: Danielle Robinson](https://science.mozilla.org/blog/intro-to-danielle)
@@ -76,7 +77,7 @@ TITLE | TECH USED | DESCRIPTION
 * Data analysis and visualization
 * Project management and communication
 * Grant writing
-* Training beginner level usered in data analysis in R, GitHub, project strategy & management, 
+* Training beginner level usered in data analysis in R, GitHub, project strategy & management
 
 
 
