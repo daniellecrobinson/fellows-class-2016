@@ -36,12 +36,13 @@ Dissertation Defense | Portland, OR | December 5, 2016 | The role of myotubulari
 PyCon Mozilla Science Lab open space | Portland OR | May 20, 2017 | An informal discussion about Mozilla Science acrivities and programs in the Python community.
 [BioData Club: Friendly Intro to R Workshop](https://github.com/BioData-Club/Friendly-Intro-to-R/blob/master/README.md) | Portland OR | May 26, 2017 | The world's friendliest introduction to R, organized and taught with Lilly Winfree.
 [Women in Science Portland Evening Forum](https://www.facebook.com/events/121650565052281) | Portland OR | May 30, 2017 | An evening of community engagement and discussion. Founding member and Chair of the Communications Committee.
-[Mozilla Global Sprint Portland](https://mozilla.github.io/global-sprint/) | Portland OR | June 1 & 2, 2017 | Site host, participant, and mentor for two projects.
+[Mozilla Global Sprint Portland](https://mozilla.github.io/global-sprint/) | Portland OR | June 1 & 2, 2017 | Site host, participant, and [Open Leadership Training](https://mozilla.github.io/leadership-training/readme/) mentor for two projects: [Why Not Open Science?](https://github.com/dasaderi/WhyNotOpenScience) and [NeuroTech EDU](https://github.com/NeuroTechX/learn.neurotechedu.com).
 [Cascadia R Conference](https://cascadiarconf.com/) | Portland OR | June 3, 2017 | [A Lightning Primer on Open Source Community Building](http://rpubs.com/daniellecrobins/Cascadia-R-conf-lightning) 
-Council on Library and Information Resources (CLIR) and Digital Library Forum (DLF) | E-Research Network Webinar | June 14, 2017 | Invited Speaker
-[Open in Africa: Working Open Workshop Capetown](https://mozillascience.github.io/WOW-SA/) | Cape Town, South Africa |  June 16, 2017 |
-Open Source Bridge | [microWorking Open Workshop (microWOW): Launch Your Open Project!](http://opensourcebridge.org/sessions/2065) | Portland OR |  June 21, 2017 | A 1hr 45 min workshop to prepare participants on how to lauch their open projects!
-Society for American Archivists Web Archiving Section’s annual meeting | Portland OR |  July 26, 2017 | Invited panelist for a discussion on Data Rescue.
+[Council on Library and Information Resources (CLIR)](https://www.clir.org/) and [Digital Library Federation (DLF)](https://www.diglib.org/) | E-Research Network Webinar | June 14, 2017 | Invited speaker co-presentation with Stephanie Wright [Advocacy & In-Reach: How to build your network](https://docs.google.com/presentation/d/1XcEEka5jMso0U_Lc8HtMoH2KGeB3NMqhtvmfJW0LvCA/edit#slide=id.g1e5449339a_0_0)
+Open in Africa | Cape Town, South Africa | Lightning talk: [Build the Movement: Building Bridges, Sustaining Connections](http://rpubs.com/daniellecrobins/Cape-town-lightning)
+[Open in Africa: Working Open Workshop Capetown](https://mozillascience.github.io/WOW-SA/) | Cape Town, South Africa |  June 16, 2017 | Train the trainer session to prepare leaders to run Working Open Workshops in Africa.
+[Open Source Bridge](http://opensourcebridge.org/sessions/2065) | [microWorking Open Workshop (microWOW): Launch Your Open Project!](https://github.com/daniellecrobinson/microWOW-OSBridge-2017) | Portland OR |  June 21, 2017 | A 1hr 45 min workshop to prepare participants on how to lauch their open projects!
+[Society for American Archivists Web Archiving Section’s annual meeting](http://www2.archivists.org/groups/web-archiving-section) | Portland OR |  July 26, 2017 | Invited panelist for a discussion on Data Rescue.
 
 #### PROJECTS
 TITLE | TECH USED | DESCRIPTION
