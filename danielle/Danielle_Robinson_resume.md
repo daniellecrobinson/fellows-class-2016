@@ -28,7 +28,7 @@ Digital security for moms | Portland OR | January 15, 2017 | Talk and workshop o
 [Working Open Workshop, Montréal](https://mozillascience.github.io/WOW-2017/) | Montréal, QC Canada | March 10 & 11, 2017 | Lean [GitHub workshop](https://public.etherpad-mozilla.org/p/2017-03-09-WOW-friendly-github-intro), panel discussion on [Community Building](https://public.etherpad-mozilla.org/p/2017-wow-community-building), and [Open Data & Data Reuse](https://mozillascience.github.io/WOW-2017/data_rescue_exercise/data_rescue_exercise.html) session.
 [miniWOW PDX](https://github.com/daniellecrobinson/mini-wow-pdx) | Portland OR | April 14 & 15, 2017 | A shorter version of the Working Open Workshop, see [schedule](https://github.com/daniellecrobinson/mini-wow-pdx/blob/master/mini-wow-pdx-schedule.md).
 [A Friendly Intro To GitHub](https://mozillascience.github.io/friendly-github/) at [RDAP](https://www.asis.org/rdap/) | Seattle WA | April 21, 2017 | Basic GitHub for project management and team collaborations.
-[Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar invited speaker, [Open Access: Advocating for Change](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/) | April 25, 2017 | Building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
+[Culture change, open science, and movement building](https://github.com/OHSU-Library/Library-Journal-OA-Webinar) | Library Journal Webinar invited speaker | April 25, 2017 | [Open Access: Advocating for Change](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/) - building community and changing the culture of science through libraries. Archived online [here](http://lj.libraryjournal.com/2017/04/webcasts/open-access-advocating-for-change/).
 [Open Source Alliance for Open Science](https://www.adamhyde.net/open-source-alliance-for-open-science/) | Portland, OR | May 1, 2017 | A discussion and plannign session hosted by the [Collaborative Open Knowedge Foundation](https://coko.foundation/) and the [Moore Foundation](https://www.moore.org/article-detail?newsUrlName=the-gordon-and-betty-moore-foundation-selects-awardees-for-$21-million-in-grants-to-stimulate-data-driven-discovery).
 [csv,conf,v3](https://csvconf.com/) | Portland, OR | May 2-3, 2017| Organizer: Program Committee member and session chair.
 [Libraries+ Network](https://libraries.network/about/) | Washington DC | May 8-9, 2017 | The Libraries+ Network is a nascent consortium of research libraries, library organizations, and open data communities with a shared interest in saving, preserving, and making accessible born-digital federal government information upon which researchers, citizens, and communities rely.
@@ -53,7 +53,7 @@ TITLE | TECH USED | DESCRIPTION
 [BioData Club](https://github.com/BioData-Club/BioData-Club.github.io) | Website, community, and curriculum development  | A twice-monthly study group and online cirriculum resource. On campus support for students and postdocs learning to code! Do it / teach it!
 [Data Rescue](https://github.com/daniellecrobinson/Data-Rescue-PDX/blob/master/README.md) | Developing open metadata standards, and workflow | A series of events in Portland empowering people to work on backing up and collecting government data.
 
-#### TRAININGS
+#### TRAININGS ATTENDED
 TITLE | TECH USED | DESCRIPTION
 ----- | --------- | ------------
  [Expressing Yourself with R, a workshop with Hadley Wickham](http://events.reed.edu/event/hadley_wickham_workshop)| October 11, 2016 | Reed College, Portland OR | Participant
@@ -69,7 +69,13 @@ TITLE | TECH USED | DESCRIPTION
 * [OpenCon: An unexpected journey](https://science.mozilla.org/blog/opencon-an-unexpected-journey)
 * [Fellows Feedback: Revisiting My Application for Mozilla Fellowship for Science 2016](https://science.mozilla.org/blog/ff-danielle)
 
+#### SOFTWARE & SKILLS
+* Data analysis and visualization
+* Project management and communication
+* Grant writing
+* Training beginner level usered in data analysis in R, GitHub, project strategy & management, 
 
-Add map, add software
+
+
 
 
